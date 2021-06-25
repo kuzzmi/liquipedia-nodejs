@@ -12,8 +12,15 @@
     "liquipedia",
     "dota2"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzzmi/liquipedia-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuzzmi/liquipedia-nodejs/issues"
+  },
+  "homepage": "https://github.com/kuzzmi/liquipedia-nodejs#readme",
   "devDependencies": {
-    "np": "^7.5.0",
     "ts-jest": "^27.0.3",
     "typescript": "^4.3.4"
   },
@@ -21,5 +28,6 @@
     "axios": "^0.21.1",
     "node-html-parser": "^3.3.6",
     "rambda": "^6.7.0"
-  }
+  },
+  "files": ["dist/*"]
 }
