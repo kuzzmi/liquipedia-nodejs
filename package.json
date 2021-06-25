@@ -1,0 +1,25 @@
+{
+  "name": "liquipedia-nodejs",
+  "version": "0.0.1",
+  "main": "dist/liquipedia.js",
+  "license": "MIT",
+  "author": "Igor Kuzmenko <igor@kuzzmi.com> (http://kuzzmi.com)",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "liquipedia",
+    "dota2"
+  ],
+  "devDependencies": {
+    "np": "^7.5.0",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-html-parser": "^3.3.6",
+    "rambda": "^6.7.0"
+  }
+}
