@@ -1,6 +1,6 @@
 {
   "name": "liquipedia-nodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/liquipedia.js",
   "license": "MIT",
   "author": "Igor Kuzmenko <igor@kuzzmi.com> (http://kuzzmi.com)",
